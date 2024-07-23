@@ -6,12 +6,8 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-
-# This is h1
-
 ![title](static/text.png)
 
-^ images are written like this: `![description](file_path/file_name.png)`
 
 ## This is h2
 
