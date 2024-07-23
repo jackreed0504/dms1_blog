@@ -9,7 +9,7 @@ allow_math: true
 
 # This is h1
 
-![a drippy lemon](logo.svg)
+![title](text.png)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
