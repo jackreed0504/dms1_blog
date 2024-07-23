@@ -6,11 +6,6 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<div class="reveal">
-  <div class="slides">
-    <section data-markdown="first-blog-post.md" data-background-image="http://example.com/image.png"></section>
-  </div>
-</div>
 
 # This is h1
 
