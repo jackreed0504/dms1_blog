@@ -9,7 +9,7 @@ allow_math: true
 
 # This is h1
 
-![title](text.png)
+![title](static/text.png)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
