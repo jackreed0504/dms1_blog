@@ -12,5 +12,5 @@ Okay, that's a bit of an overstatement. The truth is, the four of us roamed clue
 
 Despite struggling with many of these puzzling riddles, our group had a clear advantage: *me*. Yes, I know that is arrogant, but it is true. Previously, I had undertaken three semesters of Bachelor of Arts (Music Industry) at RMIT before I transferred to Digital Media. This meant that I was familiar with the campus, which helped us figure out some of the items in the scavenger hunt...
 
-![vending machine](/static/w01s1/scavenger%201.jpg)
+![vending machine](/static/w01s1/scavenger_1.jpg)
 
