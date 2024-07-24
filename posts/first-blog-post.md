@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-![jackblog](/w01s1/text.png)
+![jackblog][static/w01s1/text.png]
 
 ## This is h2
 
@@ -91,3 +91,6 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
 </script>
 
 
+
+
+[def]: /w01s1/text.png
