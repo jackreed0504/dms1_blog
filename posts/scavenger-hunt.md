@@ -22,7 +22,7 @@ The clue "A study space fit for a Sith Lord." immediately reminded me of the "St
 
 ![jail](/static/w01s1/scavenger_3.jpg)
 
-We all agreed that one of the clues, "A door for the condemned." hinted at the Old Melbourne Gaol, which is connected to and preserved with RMIT either due to its historical significance, or as a metaphor for the feeling of having lots of assignments to do. While I knew it was part of the campus and had actually been many times, it somehow hadn't occured to me and we had to use Google maps, which directed us the long way round >:(
+We all agreed that one of the clues, "A door for the condemned." hinted at the Old Melbourne Gaol, which is connected to and preserved with RMIT either due to its historical significance, or as a metaphor for the feeling of having lots of assignments to do. While I knew it was part of the campus and had actually been many times, it somehow hadn't occured to me and we had to use Google maps, which directed us the long way round :rage:
 
 ![monkey's hand](/static/w01s1/scavenger_4.jpg)
 
