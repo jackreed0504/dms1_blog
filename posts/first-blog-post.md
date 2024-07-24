@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-![picture](/static/w01s1/text.png)
+![picture](jackreed0504/dms1_blog/static/w01s1/text.png)
 
 ## This is h2
 
