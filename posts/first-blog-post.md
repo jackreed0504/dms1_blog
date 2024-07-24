@@ -6,4 +6,4 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-![jackblog](/static/logo.svg)
+![jackblog](/static/w01s1/text.png)
