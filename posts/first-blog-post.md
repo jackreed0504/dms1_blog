@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-![title](text.png)
+![title](logo.svg)
 
 ## This is h2
 
