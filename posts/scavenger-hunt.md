@@ -42,6 +42,6 @@ Along our journey we ran into another group, who were also quite lost, and we de
 
 ![book](/static/w01s1/scavenger_8.jpg)
 
-Likewise, the other group wasn't quite sure what book "A book containing Digital Media wisdom, found amongst many." referred to, so had just selected a relevant book in the library. We did the same, selecting a book on Graphic Design to include in the photograph. Unfortunately, we had never got to find out what the "golden globe atop a tower of eights." was, as it was time to journey back to our classroom.
+Likewise, the other group wasn't quite sure what book "A book containing Digital Media wisdom, found amongst many." referred to, so they had just selected a relevant book in the library. We did the same, selecting a book on Graphic Design to include in the photograph. Unfortunately, we had never got to find out what the "golden globe atop a tower of eights." was, as it was time to journey back to our classroom.
 
 **THE END**
