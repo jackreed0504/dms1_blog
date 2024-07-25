@@ -12,7 +12,7 @@ Okay, that's a bit of an overstatement. The truth is, the four of us roamed clue
 
 Despite struggling with many of these puzzling riddles, our group had a clear advantage: *me*. Yes, I know that is arrogant, but it is true. Previously, I had undertaken three semesters of Bachelor of Arts (Music Industry) at RMIT before I transferred to Digital Media. This meant that I was familiar with the campus, which helped us figure out some of the items in the scavenger hunt...
 
-![vending machine](/static/w01s1/scavenger_1.jpg)
+![vending machine](/w01s1/scavenger_1.jpg)
 
 Firstly, we all agreed that the clue "A wide machine, dispensing beverages from a far away land." clearly described a vending machine. Using my somewhat photographic memory of the campus, I directed the team towards the vending machine located in Building 10, and Sharon used her cellular device's camera to capture what may be described as a "selfie" of all of us in front. (Pictured above)
 
