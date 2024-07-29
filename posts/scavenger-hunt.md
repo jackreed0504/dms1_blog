@@ -1,7 +1,7 @@
 ---
-title: Class 1 Scavenger Hunt
+title: Week 1 Session 1 (Part 1)
 published_at: 2024-07-24
-snippet: A journey of many trials and tribulations
+snippet: Scavenger hunt
 disable_html_sanitization: true
 allow_math: true
 ---

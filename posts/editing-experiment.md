@@ -1,5 +1,5 @@
 ---
-title: Editing experiment
+title: Week 1 Session 2
 published_at: 2024-07-28
 snippet: 30 minute experiment with Adobe Premiere editing techniques
 disable_html_sanitization: true
@@ -10,4 +10,4 @@ In our DMS-1 class, we were instructed to make a 30 second editing experiment us
 
 As both of the videos captured featured panning over a landscape, I tried to contrast these using a "Match Cut" which would match the common features of the movement and the featuring of a landscape. This would highlight the differences between each video, as one was a serene landscape whereas the other is a dimly lit room with a clock ticking sound in the background, and was very ominous. I did this by using the razor tool to cut the clips into different sections and placing them side by side in the timeline, and by using the trim tool and ripple trim to perfect the edits.  In practice, I think the match cut successfully highlighted the juxtaposition between the videos, which I found looked really interesting. I was however dissapointed that one video (mine) was significantly shakier then the other, and was at a different pace. This made the match cuts less smooth, and as a result, less immersive in my opinion.
 
-[Watch it here!](https://vimeo.com/991156875?share=copy)
+<iframe width="1019" height="573" src="https://www.youtube.com/embed/CggfAOSZvVY" title="DMS-1 Editing Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

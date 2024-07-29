@@ -1,7 +1,7 @@
 ---
-title: Important Space Video
+title: Week 1 Session 1 (Part 2)
 published_at: 2024-07-25
-snippet: A video of a space which is important to me
+snippet: Important space video
 disable_html_sanitization: true
 allow_math: true
 ---
