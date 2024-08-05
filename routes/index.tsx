@@ -15,7 +15,7 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
       <div class="mt-8">
-      <img class="h-auto max-w-full" src="/w01s1/text.png" alt="title"></img>
+      <img class="h-auto max-w-full" src="/dms1title.png" alt="title"></img>
         {posts.map((post) => <PostCard post={post} />)}
       </div>
     </main>
