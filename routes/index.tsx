@@ -9,12 +9,11 @@ export const handler: Handlers<Post[]> = {
 };
 
 
-
+<img class="h-auto max-w-full" src="/jackreed0504/dms1_blog/static/w01s1/text.png" alt="image description">
 
 export default function BlogIndexPage(props: PageProps<Post[]>) {
   const posts = props.data;
   return (
-    <img class="h-auto max-w-full" src="/jackreed0504/dms1_blog/static/w01s1/text.png" alt="image description">
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
       <h1 class="text-5xl font-bold">Jack's DMS-1 Blog</h1>
       <div class="mt-8">
