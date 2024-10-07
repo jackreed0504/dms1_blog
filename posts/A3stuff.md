@@ -57,7 +57,7 @@ While I wanted to convey a nostalgic, or meloncholic mood, this didn't come acro
 
 ![planes](/a3/planes.png)
 
-After this, the sound became distorted in Unity Play (it sounded like it was clipping). I switched to a Mac Build, and it worked fine. Below is a video of me playing my environment:
+After this, the sound became distorted in Unity Play (it sounded like it was clipping). I switched to a Mac Build, and it worked fine, but I needed to change the mouse sensitivity to 7 as it was too low. Below is a video of me playing my environment:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W1etzT0DvQw?si=XJBq_jw8jrQJcalM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
