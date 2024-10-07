@@ -1,7 +1,7 @@
 ---
 title: Assignment 3
 published_at: 2024-10-07
-snippet: Finalising and references
+snippet: Finalising and Resources Used
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -51,7 +51,7 @@ To further reinforce the idea that the meaning of the environment was becoming a
 
 It is important to use sound to create a 'sense of place', by materialising the things in the environment. I felt like it would be important to materialise the actions, picking up the watering can and watering the tree, by adding sounds to these. I found some audio in the YouTube Audio Library that represented the sound of these actions, and added Audio Source components to the watering can and all of the trees with these sounds set as the 'AudioClip' on these components. On the Picking up script and the Change size script, I used 'GetComponent.AudioSource().Play(0)' to get the audio source from each object (which I referenced in their script and components) and play the clip when the action took place. I set the Spatial Blend to 2D for each of these as they were not used for navigation, turned off loop as they were to play one shot, and turned off Play on Awake so they wouldnt play until triggered.
 
-![materialise](/a3/finaltree.png)
+![materialise](/a3/materialise.png)
 
 While I wanted to convey a nostalgic, or meloncholic mood, this didn't come across to my playtesters. To help convey nostalgic and meloncholic emotions, I noted that the Minecraft soundtrack is successful at this for me. I considered using similar instrumentation to that used in the Minecraft soundtrack, such as lofi pianos and arpeggiated synths. I found an old beat I had made which was inspired by the Minecraft soundtrack and featured many of these sounds, so I exported loops with different sets of instruments (piano loop, synth loop, drums and bass and synth loop, drums and bass and synth and mellotron loop) and replaced the current clips (which were arranged on a [plane](https://jackreed050-dms1-blog-55.deno.dev/w8s2) so the soundtrack could evolve depending on the player's position) with these ones. As one of the technical issues one of the playtester's noted was the constant panning of the soundtrack due to this method, I made sure there was one loop playing the whole time (the piano), which would be playing from an Audio Source on the player controller, with the spatial blend set to 2D. I deleted some of the planes, as the ones before and right after the entrance were no longer needed due to the player controller being used as the main Audio source for this part. I arranged the audio clips so that an arpeggiated synth would be introduced when the player moved towards the watering can, and drums and bass would be introduced as the player walks along the dirt path to water the trees. Then, once the player gets to the top of the mountain, hi hats are introduced as well as a mellow sounding mellotron flute, to add a musical climax to this section. I also remade the 'pinging' sound coming from the trees with a synth in Ableton, to be more harmonious with the soundtrack, but made sure it looped at a different pace so it wouldn't be indistinguishable from the soundtrack, helping it stand out and draw the player to the trees.
 
