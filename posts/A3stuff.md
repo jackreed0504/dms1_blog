@@ -69,6 +69,7 @@ After this, the sound became distorted in Unity Play (it sounded like it was cli
 * Tree 'pinging' sound by me
 * Watering can sound: 'Water Can Fall' from YouTube Audio Library
 * Watering trees sound: 'Water Leak' from YouTube Audio Library
+* Outdoors ambience: 'Spring Day Forest' from YouTube Audio Library
 
 ### Textures
 * Dirt path from [Handpainted Grass & Ground Textures](https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-textures-187634?srsltid=AfmBOorKtQDVsjcnOQ_jgxHRYqu6hNy9QumHbZQHJxkDm2myZQF1Tnx) by Chromisu from Unity Asset Store.
